@@ -4,6 +4,8 @@
 
 Ars viv et Auxilia ars.
 
+(The art of living and the art of help.)
+
 # FAQ
 
 ## What is this?
