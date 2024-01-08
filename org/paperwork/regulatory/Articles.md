@@ -1,4 +1,4 @@
-# Articles of Incorporation (LOTUEL)
+# Articles of Incorporation (Port Signals)
 
 ## metadata
 + stamp: January 2024
