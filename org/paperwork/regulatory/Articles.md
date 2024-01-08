@@ -43,7 +43,7 @@ There are a few levels of responsibility and scope for people working with Port 
 
 Note: Port Signals staff may, but are not required to, wear many hats. For details regarding what duties a staff member is responsible for, you may check their personnel file.
 
-### Form 202 (USA)
+### Form 202—General Information (USA) _(Certificate of Formation – Nonprofit Corporation)_
 
 #### Article 1: Entity Name and Type
 The filing entity being formed is a nonprofit corporation. The name of the entity is: Port Signals
@@ -87,5 +87,32 @@ The nonprofit corporation is organized for the following purpose or purposes:
 
 Port Signals hosts informative, artful information for the public good, specifically with a goal of creating digital and physical materials that help people get through life, or understand it better.
 
-Kindest,
+#### Initial Mailing Address
+PO BOX 140337 Irving, TX 74014 USA
+Mailing Address City State Zip Code Country
+
+#### Supplemental Provisions/Information
+
+Text Area: [Articles.md](./Articles.md)
+Organizer
+The name and address of the organizer:
+Lilith Unknown
+PO BOX 140337 Irving, TX 75014
+Street or Mailing Address City State Zip Code
+
+#### Effectiveness of Filing (Select either A, B, or C.)
+A. This document becomes effective when the document is filed by the secretary of state.
+
+#### Execution
+The undersigned affirms that the person designated as registered agent has consented to the
+appointment. The undersigned also affirms that, to the best knowledge of the undersigned, the name
+provided as the name of the filing entity does not falsely imply an affiliation with a governmental
+entity. The undersigned signs this document subject to the penalties imposed by law for the submission
+of a materially false or fraudulent instrument and certifies under penalty of perjury that the undersigned
+is authorized to execute the filing instrument.
+
+Date: January 2024
+
 Lilith
+Signature of organizer
+Printed or typed name
