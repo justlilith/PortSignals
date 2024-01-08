@@ -29,14 +29,16 @@ These are Port Signals Volunteers:
     + +1.832.900.9040
 * ErosHT
 
-### Nomenclature
+### Access Level Nomenclature
 
-There are escalating levels of responsibility and scope for people working with Port Signals; a Volunteer has the same, and more, duties as a Contributor.
+There are escalating levels of responsibility and scope for people working with Port Signals; a Volunteer has the same, and more, duties as a Contributor. Creators are directly responsible for organising, improving, and keeping accountable Port Signals and projects under its umbrella.
 
 + **Level 0 (L0 / Public)**: Can interact with unmarked Port Signals materials
 + **Level 1 (L1 / Contributor)**: Improves Port Signals materials and operations (loosely scoped to the collective)
 + **Level 2 (L2 / Volunteer)**: Maintains Port Signals (loosely scoped to the collective)
 + **Level 3 (L3 / Creator)**: Actively develops Port Signals and associated projects under the Port Signals name (tightly scoped per project)
+
+Note: Port Signals staff may, but are not required to, wear many hats. For details regarding what duties a staff member is responsible for, you may check their personnel file.
 
 Kindest,
 Lilith
