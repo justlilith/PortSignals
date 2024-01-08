@@ -20,9 +20,11 @@ All questions may be directed to Lilith. In lieu of correspondence with Lilith, 
 
 Port Signals works via volunteer effort, in addition to standard housekeeping. For example, any Port Signals staff can update organizational documents, but the names below are directly responsible.
 
-#### Core team
+Port Signals has a board of Directors; this is also the core team.
 
-These are Port Signals Volunteers:
+#### Core team (board of Directors)
+
+These are Port Signals Volunteers; they are also Directors:
 
 * Lilith
     + _ @ justlilith.com
@@ -31,14 +33,36 @@ These are Port Signals Volunteers:
 
 ### Access Level Nomenclature
 
-There are escalating levels of responsibility and scope for people working with Port Signals; a Volunteer has the same, and more, duties as a Contributor. Creators are directly responsible for organising, improving, and keeping accountable Port Signals and projects under its umbrella.
+There are a few levels of responsibility and scope for people working with Port Signals; a Volunteer has the same, and more, duties as a Contributor. Creators are directly responsible for organising, improving, and keeping accountable Port Signals and projects under its umbrella.
 
 + **Level 0 (L0 / Public)**: Can interact with unmarked Port Signals materials
 + **Level 1 (L1 / Contributor)**: Improves Port Signals materials and operations (loosely scoped to the collective)
 + **Level 2 (L2 / Volunteer)**: Maintains Port Signals (loosely scoped to the collective)
 + **Level 3 (L3 / Creator)**: Actively develops Port Signals and associated projects under the Port Signals name (tightly scoped per project)
++ **Director**: Port Signals staff legally responsible for its continued operation
 
 Note: Port Signals staff may, but are not required to, wear many hats. For details regarding what duties a staff member is responsible for, you may check their personnel file.
+
+### Form 202 (USA)
+
+#### Article 1: Entity Name and Type
+The filing entity being formed is a nonprofit corporation. The name of the entity is: Port Signals
+
+#### Article 2 – Registered Agent and Registered Office
+
+B. The initial registered agent is an individual resident of the state whose name is set forth below:
+Lilith Unknown
+
+C. The business address of the registered agent and the registered office address is:
+PO BOX 140337 Irving, TX 75014
+Street Address City State Zip Code
+Article 3 – Management
+The management of the affairs of the corporation is vested in the board of directors. The number of
+directors constituting the initial board of directors and the names and addresses of the persons who are
+to serve as directors until the first annual meeting of members or until their successors are elected and
+qualified are as follows:
+
+
 
 Kindest,
 Lilith
