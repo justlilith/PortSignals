@@ -8,9 +8,9 @@
 
 ### Preface
 
-Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow.
+Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. There are no formal members; Port Signals does not require dues, nor are there formal votes regarding foundation direction. Port Signals is managed by a core team, who are all Directors; in Core Meetings, votes may be taken.
 
-This document holds the elements of Port Signal's legal foundation. For example, the officers, bylaws, and memberships (as of 2024) are listed here. Other documents in this folder provide supplemental information.
+This document holds the elements of Port Signal's legal foundation. For example, the access levels, bylaws, and memberships (as of 2024) are listed here. Other documents in this folder provide supplemental information.
 
 Because this repo exists before Port Signals is legally recognized, handles/usernames may not reflect current reality, temporally speaking. However, every effort must be made to continually note the names and contributions of Contributors, Volunteers, and Creators.
 
@@ -48,21 +48,44 @@ Note: Port Signals staff may, but are not required to, wear many hats. For detai
 #### Article 1: Entity Name and Type
 The filing entity being formed is a nonprofit corporation. The name of the entity is: Port Signals
 
-#### Article 2 – Registered Agent and Registered Office
+#### Article 2: Registered Agent and Registered Office
 
 B. The initial registered agent is an individual resident of the state whose name is set forth below:
 Lilith Unknown
 
 C. The business address of the registered agent and the registered office address is:
 PO BOX 140337 Irving, TX 75014
-Street Address City State Zip Code
-Article 3 – Management
+
+#### Article 3: Management
 The management of the affairs of the corporation is vested in the board of directors. The number of
 directors constituting the initial board of directors and the names and addresses of the persons who are
 to serve as directors until the first annual meeting of members or until their successors are elected and
 qualified are as follows:
 
+(A minimum of three directors is required.)
 
+**Director 1**
+Lilith Unknown
+PO BOX 140337 Irving, TX 75014 USA
+
+**Director 2**
+ErosHT
+
+Street or Mailing Address City State Zip Code Country
+
+**Director 3**
+
+Street or Mailing Address City State Zip Code Country
+
+#### Article 4: Membership
+
+B. The nonprofit corporation will have no members.
+
+#### Article 5: Purpose
+
+The nonprofit corporation is organized for the following purpose or purposes:
+
+Port Signals hosts informative, artful information for the public good, specifically with a goal of creating digital and physical materials that help people get through life, or understand it better.
 
 Kindest,
 Lilith
