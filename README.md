@@ -1,21 +1,17 @@
-# Lotuel
+# Port Signals
 
 ## Collaborative creativity for our greater good.
 
-Ars viv et Auxilia ars.
+Ars viv ars ad viv et aux.
 
-(The art of living and the art of help.)
+(The art of living is the art of living and helping.)
 
 # FAQ
 
 ## What is this?
 
-Lotuel is a nonprofit foundation created for the express purpose of developing works that help people on some way.
+Port Signals is an expressly nonprofit foundation-type LLC (?), a collective of artists, created for the express purpose of developing works that help people.
 
 ## What is this repo?
 
-Lotuel's organizational materials, in plain-text.
-
-## Ah. What's it for?
-
-This serves as a way to keep ourselves consistent and accountable and always forward-thinking.
+Port Signal's organizational materials, in plain-text.
