@@ -2,23 +2,17 @@
 
 **Ars viv ars ad viv et aux.**\*
 
-<<<<<<< HEAD
 ![Port Signals](https://github.com/justlilith/PortSignals/blob/main/images/official-mark/128x128/on%20black.png)
 
 Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence.
-=======
-Ars viv ars ad viv et aux.
-
-(The art of living is the art of living and helping.)
->>>>>>> 47f6c20 (Update README.md)
 
 ## Quick Links
 
 ### Community
 
-Official updates occur in [this Telegram group](https://t.me/+3JKpZDX4LOA1M2Zh): https://t.me/+3JKpZDX4LOA1M2Zh
+Official updates occur in [this Telegram group](https://t.me/+3JKpZDX4LOA1M2Zh) (https://t.me/+3JKpZDX4LOA1M2Zh)
 
-For ad hoc community, we use this [Discord server](https://discord.gg/Cafe3eUh): https://discord.gg/Cafe3eUh
+For ad hoc community, we use this [Discord server](https://discord.gg/Cafe3eUh) (https://discord.gg/Cafe3eUh)
 
 #### What are these links?
 
@@ -38,7 +32,6 @@ ____
 
 ## What is this?
 
-<<<<<<< HEAD
 Port Signals is a collective of artists, created for the express purpose of developing works that help people, as an expressly nonprofit foundation with plans to incorporate. The mark itself is applied to new media (Internet-based and sourced) that exists to make life more amenable for all. As an example, a collection of guides to navigating social norms could be produced with the help of Port Signals.
 
 Because it's a collective, creatives working with Port Signals help other creatives work on their projects, which are their best efforts.
@@ -66,10 +59,3 @@ ____
 ## Footnotes
 
 \* (Translation: The art of living is the art of living and helping.)
-=======
-Port Signals is an expressly nonprofit foundation-type LLC (?), a collective of artists, created for the express purpose of developing works that help people.
-
-## What is this repo?
-
-Port Signal's organizational materials, in plain-text.
->>>>>>> 47f6c20 (Update README.md)
