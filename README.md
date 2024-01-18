@@ -24,14 +24,14 @@ Port Signal's organizational materials, in plain-text. We're choosing GitHub as 
 
 ## What does the name mean?
 
-The name comes from the vision of a static port, that broadcasts signals. The port helps those who come across it, without seeking anything in return. Port Signals crafts are similarly created to help others who find them.
+The name comes from the visage of a static port, that broadcasts signals to those who can hear them. The port helps those who come across it, without seeking anything in return. Port Signals crafts and efforts are similarly created to help others.
 
 ## How does this structure work?
 
-Port Signals collaborators publish creative work under the Port Signals tag/mark. They keep all of their profits because they manage goods themselves. This is a clear separation from earnings pools or downlines. As a collaborator, what you make reinforces the signals you send out.
+Port Signals collaborators publish creative work using the Port Signals tag/mark. They keep all of their profits because they manage goods themselves; Port Signals is an amplifier as much as a mark, and so we do not use it as a business, but as a label. This is noted as a clear separation from earnings pools or downlines. As a collaborator, what you make reinforces the signals you send out, and Port Signals boosts those signals.
 
 For example, Lilith is a Port Signals collaborator. She might publish a short film with accompanying PDF guide. Lilith chooses to release it as part of Port Signals, to better reinforce the mark for others.
 
 ## Future plans?
 
-Ideally, Port Signals can function as a foundation that allots grants to artists/creatives in return for their commitment to producing art which elevates life, and its care and keep.
+Ideally, Port Signals should function as a foundation that allots grants to artists/creatives who produce art which elevates life, its care, and its keep.
