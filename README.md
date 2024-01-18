@@ -6,6 +6,10 @@
 
 (Translation: The art of living is the art of living and helping.)
 
+Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow.
+
+## Quick Links
+
 Trello: https://trello.com/b/AGZhfgAV/port-signals-active-tasks (Atlassian account required; SSO available)
 
 Miro (team-editable): [Super long team link](https://miro.com/welcomeonboard/c0szUmFUaVY4MTZkMXFHZ0Z6V0pWQWJkNXNTYlpjR2FlR0dncTFaYnhtY1lhWFZ1eDlBUllSalJObUdPTnZQQXwzNDU4NzY0NTE1ODA2NzI2NjEzfDI=?share_link_id=511981378964) (Miro account and team joining required)
