@@ -6,7 +6,7 @@
 
 (Translation: The art of living is the art of living and helping.)
 
-Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow.
+Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence.
 
 ## Quick Links
 
