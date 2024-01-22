@@ -8,11 +8,13 @@
 
 ### Preface
 
-Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. It is a collective with no formal members in a legal sense; Port Signals does not require dues, nor are there formal votes regarding foundation direction. Instead, Port Signals is managed by a Core Team, who are all Directors; in Core Meetings, votes may be taken, and recorded along with meeting notes, as Port Signals shifts direction.
+Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. It is a collective with no formal/voting members, and Port Signals does not require dues, nor are there formal votes regarding foundation direction.
 
-This document holds the elements of Port Signal's foundation, formatted similarly to Form 202—General Information (USA). For example, the access levels, bylaws, and memberships (as of 2024) are listed here. Other documents in this folder provide supplemental information.
+Instead, Port Signals is managed by a Core Team, who are all Directors; in Core Meetings, votes of Directors may be taken, and recorded along with meeting notes, as Port Signals shifts direction. Votes are not mandatory, but the recording of decisions is.
 
-Handles/usernames may not reflect current reality, temporally speaking. However, every effort must be made to continually note the names and contributions of Contributors, Volunteers, and Creators.
+This document holds the elements of Port Signal's foundation, formatted similarly to Form 202—General Information (USA). For example, the access levels, bylaws, and memberships (as of 2024) are listed here. Other documents in this folder provide supplemental information formatted clearly in Markdown as plain text, with accompanying media as necessary.
+
+Handles/usernames in this document reflect actual people. For privacy's sake, some information is withheld.
 
 All questions may be directed to Lilith. In lieu of correspondence with Lilith, any Port Signals L1 (and ascending) staff should be able to assist you.
 
@@ -24,28 +26,16 @@ Port Signals has a board of Directors; this is also known as the core team. Majo
 
 #### Core team (board of Directors)
 
-These are Port Signals Volunteers/Contributors; they are also Directors:
+The following are Port Signals Directors:
 
 * Lilith
     + _ @ justlilith.com
     + +1.832.900.9040
-    + insta: @lilawhen
-* ErosHT
+    + instagram: @lilawhen
+* E6
     + contact details pending
-* Lorelei
+* L7
     + contact details pending
-
-### Access Level Nomenclature
-
-There are a few levels of responsibility and scope for people working with Port Signals; a Volunteer has the same, and more, duties as a Contributor. Creators are directly responsible for organising, improving, and keeping accountable Port Signals and projects under its umbrella.
-
-+ **Level 0 (L0 / Public)**: Can interact with unmarked Port Signals materials
-+ **Level 1 (L1 / Contributor)**: Updates and improves Port Signals materials and collective operations
-+ **Level 2 (L2 / Volunteer)**: Maintains the Port Signals collective and its structure
-+ **Level 3 (L3 / Creator)**: Actively develops Port Signals and associated projects under the Port Signals tag (tightly scoped per project)
-+ **Director**: Port Signals staff/agents legally responsible for its continued operation.
-
-Note: Port Signals staff may, but are not required to, wear many hats. For details regarding what duties a staff member is responsible for, you may check their personnel file.
 
 ### Form 202—General Information (USA) _(Certificate of Formation – Nonprofit Corporation)_
 
@@ -55,10 +45,12 @@ The filing entity being formed is a nonprofit corporation. The name of the entit
 #### Article 2: Registered Agent and Registered Office
 
 B. The initial registered agent is an individual resident of the state whose name is set forth below:
-Lilith Unknown
+
+Lilith
 
 C. The business address of the registered agent and the registered office address is:
-PO BOX 140337 Irving, TX 75014
+
+
 
 #### Article 3: Management
 The management of the affairs of the corporation is vested in the board of directors. The number of
@@ -72,15 +64,17 @@ qualified are as follows:
 
 Lilith Unknown
 
-PO BOX 140337 Irving, TX 75014 USA
+Street or Mailing Address, City, State, Zip Code, Country
 
 **Director 2**
 
-ErosHT
+E6
 
 Street or Mailing Address, City, State, Zip Code, Country
 
 **Director 3**
+
+L7
 
 Street or Mailing Address, City, State, Zip Code, Country
 
@@ -96,7 +90,7 @@ Port Signals creates artful and informative media for public advancement, so tha
 
 #### Initial Mailing Address
 
-PO BOX 140337 Irving, TX 74014 USA
+
 
 Mailing Address City State Zip Code Country
 
@@ -106,8 +100,8 @@ Mailing Address City State Zip Code Country
 
 The name and address of the organizer:
 
-Lilith Unknown
-PO BOX 140337 Irving, TX 75014
+Lilith
+
 Street or Mailing Address City State Zip Code
 
 #### Effectiveness of Filing (Select either A, B, or C.)
