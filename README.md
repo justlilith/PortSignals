@@ -58,4 +58,8 @@ ____
 
 ## Footnotes
 
+<<<<<<< HEAD
 \* (Translation: The art of living is the art of living and helping.)
+=======
+\* (Translation: The art of living is the art of living and helping.)
+>>>>>>> 2e4888762006a6d8f4355cddcbdc0007c5aee363
