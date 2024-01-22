@@ -4,15 +4,15 @@ Here is how to build and store the mark and its source components in any softwar
 
 * Overview
   * The Port Signals mark is a square
-  * The top half of the square (a 2:1 rectangle) is white
+  * The top half of the square (a 2:1 rectangle) is transparent
   * The bottom half is a cropped portion of something vaguely celestial 
-    * This is usually an Unsplash image by Casey Horner (insta: @mischievous_penguins)
-      * https://unsplash.com/@mischievous_penguins
+    * This is usually an Unsplash image by [Casey Horner](https://unsplash.com/@mischievous_penguins) ([instagram](https://instagram.com/mischievous_penguins))
 * Text
   * The word Port, set in Roboto Mono, which defines the base size of the text (100%)
   * The word Signals, also set in Roboto, at 125%
   * Both words are set in a paragraph, with 150% leading
   * The paragraph is vertically and horizontally centered (optically) in the Port Signals square
+  * At 2000px square, the full text lockup measures 1600px wide
 * Image
   * The image should be publically available and licensed for commercial and noncommercial use
   * Licensure should be stored next to the image used
