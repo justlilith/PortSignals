@@ -1,2 +1,0 @@
-# Articles of Incorporation
-
