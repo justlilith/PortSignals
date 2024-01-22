@@ -1,10 +1,8 @@
 # Port Signals
 
-*Collaborative creativity for our greater good.*
+**Ars viv ars ad viv et aux.**\*
 
-**Ars viv ars ad viv et aux.**
-
-(Translation: The art of living is the art of living and helping.)
+[!Port Signals](https://github.com/justlilith/PortSignals/blob/main/images/official-mark/500x500/on%20black.png)
 
 Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence.
 
@@ -55,3 +53,9 @@ For example, Lilith is a Port Signals collaborator. She might publish a short fi
 ## Future plans?
 
 Ideally, Port Signals should function as a foundation that allots grants to artists/creatives who produce art which elevates life, its care, and its keep.
+
+____
+
+## Footnotes
+
+\* (Translation: The art of living is the art of living and helping.)
