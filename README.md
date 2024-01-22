@@ -2,7 +2,7 @@
 
 **Ars viv ars ad viv et aux.**\*
 
-![Port Signals](https://github.com/justlilith/PortSignals/blob/main/images/official-mark/256x256/on%20black.png)
+![Port Signals](https://github.com/justlilith/PortSignals/blob/main/images/official-mark/128x128/on%20black.png)
 
 Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence.
 
