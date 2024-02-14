@@ -12,7 +12,7 @@ Port Signals is an Internet-native nonprofit/profit-adjacent collective of artis
 
 Official updates occur in [this Telegram group](https://t.me/+3JKpZDX4LOA1M2Zh) (https://t.me/+3JKpZDX4LOA1M2Zh)
 
-For ad hoc community, we use this [Discord server](https://discord.gg/Cafe3eUh) (https://discord.gg/Cafe3eUh)
+For ad hoc community, we use this [Discord server](https://discord.com/invite/FMwXp2VSny) (https://discord.com/invite/FMwXp2VSny)
 
 #### What are these links?
 
