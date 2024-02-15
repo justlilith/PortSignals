@@ -1,6 +1,6 @@
 # Documentation
 
-Port Signals is maximally transparent. Every effort must be made to continually note the handls/names, efforts, and contributions of Port Signals staff and collaborators.
+Port Signals is maximally transparent, but not at the risk of security and privacy. Every effort must be made to continually note the handles/names, efforts, and contributions of Port Signals staff and collaborators.
 
 This document serves as a loose guideline for what goes where and how.
 
