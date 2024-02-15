@@ -4,7 +4,7 @@
 
 ![Port Signals](https://github.com/justlilith/PortSignals/blob/main/images/official-mark/128x128/on%20black.png)
 
-Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence.
+Port Signals is an Internet-native nonprofit/profit-adjacent collective of artistic individuals who work toward a more clear, compassionate, and understandable tomorrow. Port Signals creates artful and informative media for public advancement, so that people may better understand and navigate existence. It operates publicly, while maintaining privacy.
 
 ## Quick Links
 
@@ -26,19 +26,17 @@ For ad hoc community, we use this [Discord server](https://discord.com/invite/FM
 
 [Miro (team-editable)](https://miro.com/welcomeonboard/c0szUmFUaVY4MTZkMXFHZ0Z6V0pWQWJkNXNTYlpjR2FlR0dncTFaYnhtY1lhWFZ1eDlBUllSalJObUdPTnZQQXwzNDU4NzY0NTE1ODA2NzI2NjEzfDI=?share_link_id=511981378964) (Miro account and team joining required)
 
-[Miro (view-only link)](https://miro.com/app/board/uXjVN7WXKS0=/?share_link_id=915338007962) (No account required)
-
 ____
 
 ## What is this?
 
-Port Signals is a collective of artists, created for the express purpose of developing works that help people, as an expressly nonprofit foundation with plans to incorporate. The mark itself is applied to new media (Internet-based and sourced) that exists to make life more amenable for all. As an example, a collection of guides to navigating social norms could be produced with the help of Port Signals.
+Port Signals is a collective of artists, created for the express purpose of developing works that help people, as an expressly nonprofit foundation with plans to incorporate. The mark itself is applied to new media (Internet-based and sourced) that exists to make life more amenable for all. As an example, a collection of guides to navigating social norms could be produced with the help of Port Signals. The work would bear the mark.
 
 Because it's a collective, creatives working with Port Signals help other creatives work on their projects, which are their best efforts.
 
 ## What is this repo?
 
-Port Signal's organizational materials, in plain-text. We're choosing GitHub as a temporary base while we build out the site and associated platforms.
+Port Signal's organizational materials, in plain-text. We're choosing GitHub as a temporary base while we build out the site and associated platforms. Additionally, the main UI builds from this repo.
 
 ## What does the name mean?
 
@@ -52,7 +50,7 @@ For example, Lilith is a Port Signals collaborator. She might publish a short fi
 
 ## Future plans?
 
-Ideally, Port Signals should function as a foundation that allots grants to artists/creatives who produce art which elevates life, its care, and its keep.
+Ideally, Port Signals should function as a foundation that allots public grants to artists/creatives who produce art which elevates life, its care, and its keep. Funding shoiuld be transparent.
 
 ____
 
