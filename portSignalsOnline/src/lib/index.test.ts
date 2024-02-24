@@ -1,6 +1,6 @@
-import {test} from 'zora';
+import {expect, test} from 'vitest';
 
 test(`my very first test`, (assertion) => {
     const input = false;
-    assertion.ok(input, 'input should be truthy');
+    expect(input).toBeFalsy();
 })
