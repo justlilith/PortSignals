@@ -1,15 +1,13 @@
-<script>
-    import Presibar from "$lib/components/presibar.svelte";
-    import "../../src/appStyle.scss"
+<script lang="ts">
+    import Menu from "$lib/components/menu.svelte";
+    import "../../src/appStyle.scss";
 </script>
 
 <div id="content">
     <div id="main">
         <slot />
     </div>
-    <div id="presibar">
-        <Presibar></Presibar>
-    </div>
+    <Menu></Menu>
 </div>
 
 <style lang="scss">
@@ -17,9 +15,6 @@
         display: flex;
         flex-direction: column;
         height: 100vh;
-        // grid-template-areas:
-        //     "main"
-        //     "bottom";
     }
 
     #main {
